@@ -52,4 +52,3 @@ Request Body (JSON):
 ## Delete a Book
 ### DELETE http://localhost:4000/updateBook/:_id
 Deletes the existing book from the database.
-```
